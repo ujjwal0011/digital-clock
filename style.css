@@ -1,0 +1,27 @@
+body {
+    background-color: #494646;
+    color: #fff;
+    font-family: futura;
+  }
+  .center {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #clock {
+    font-size: 40px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+
+  .h1{
+    font-size: 7vw;
+    line-height: 6vw;
+    letter-spacing: -1px;
+    text-align: center;
+    font-family: futura;
+  }
